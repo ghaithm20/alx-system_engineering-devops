@@ -3,10 +3,7 @@
 1. **1-listit: a script Display the contents list of your current directory.**
 3. **3-listfiles: a script Display current directory contents in a long format.**
 4. **4-listmorefiles: a script Display current directory contents, including hidden files**
-5. **5-listfilesdigitonly: a script Display current directory contents.
-    Long format
-    with user and group IDs displayed numerically
-    And hidden files (starting with .)**
+5. **5-listfilesdigitonly: a script Display current directory contents. Long format  with user and group IDs displayed numerically  And hidden files (starting with .)**
 6.**6-firstdirectory:  a script that creates a directory named my_first_directory in the /tmp/ directory.**
 7.**7-movethatfile: a script Move the file betty from /tmp/ to /tmp/my_first_directory.**
 8.**8-firstdelete: Delete the file betty**
