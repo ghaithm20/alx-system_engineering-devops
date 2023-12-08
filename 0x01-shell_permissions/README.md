@@ -1,1 +1,1 @@
-#This folder have scripts for files premissions in linux
+# This folder have scripts for files premissions in linux
